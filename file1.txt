@@ -1,1 +1,5 @@
-code cua lap trinh vien A pro
+<<<<<<< HEAD
+code cua lap trinh vien A prohihi
+=======
+code cua lap trinh vien A pro sieu cap
+>>>>>>> main
